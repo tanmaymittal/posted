@@ -1,0 +1,10 @@
+
+# Environment
+.env
+googlesecret.json
+
+# Folders
+/__pycache__
+static/uploads/*
+
+
